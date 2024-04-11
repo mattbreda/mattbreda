@@ -1,5 +1,6 @@
 ### Hi there, I'm Matteo 👋
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbreda)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's GitHub stats](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api?username=mattbreda&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Matt's GitHub stats](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api?username=mattbreda&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 https://github-readme-stats-onflfb6zy-mattbredas-projects.vercel.app/
