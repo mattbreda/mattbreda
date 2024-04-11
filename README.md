@@ -1,4 +1,4 @@
-### Hi there, I'm Matteo 👋
+![Header](./github-header-image.png)
 [![Matt's GitHub stats](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api?username=mattbreda&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Matt's Most used languages](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api/top-langs?username=mattbreda&show_icons=true&theme=vue-dark&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
